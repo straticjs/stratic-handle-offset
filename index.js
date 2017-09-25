@@ -17,6 +17,6 @@
 
 var moment = require('moment');
 
-module.exports = function() {
-
+module.exports = function(timeObj) {
+	return moment.unix(timeObj.epoch).utcOffset(timeObj.utcoffset.slice(3));
 };
