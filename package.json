@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/strugee/stratic-handle-offset/issues"
   },
-  "homepage": "https://github.com/strugee/stratic-handle-offset"
+  "homepage": "https://github.com/strugee/stratic-handle-offset",
+  "devDependencies": {
+    "perjury": "^0.4.3"
+  }
 }
