@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/straticjs/stratic-handle-offset.svg?branch=master)](https://travis-ci.org/straticjs/stratic-handle-offset)
 [![Coverage Status](https://coveralls.io/repos/github/straticjs/stratic-handle-offset/badge.svg?branch=master)](https://coveralls.io/github/straticjs/stratic-handle-offset?branch=master)
+[![Greenkeeper badge](https://badges.greenkeeper.io/straticjs/stratic-handle-offset.svg)](https://greenkeeper.io/)
 
 Return a properly configured [MomentJS][1] moment for a Stratic post
 
