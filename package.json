@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/strugee/stratic-handle-offset",
   "devDependencies": {
-    "coveralls": "^2.13.1",
+    "coveralls": "^3.0.0",
     "nyc": "^11.2.1",
     "perjury": "^0.4.3"
   }
