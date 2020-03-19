@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/straticjs/stratic-handle-offset",
   "devDependencies": {
-    "coveralls": "^3.0.0",
+    "coveralls": "^3.0.11",
     "nyc": "^14.0.0",
     "perjury": "^1.0.1"
   },
